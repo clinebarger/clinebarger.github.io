@@ -5,24 +5,40 @@ permalink: /teaching/
 ---
 
 
-### Courses at UMass Lowell
+## Courses at UMass Lowell
 
-- CRIM 1150: Intro to Homeland Security [(Syllabus)](/assets/Intro to Homeland Security.pdf)
-- CRIM 2130: Emergency Managmenet [(Syllabus)](/assets/Emergency Management.pdf)
-- CRIM 3120: Security Management [(Syllabus)](/assets/Security Management.pdf)
-- CRIM 3120 (Online): Security Management [(Syllabus)](/assets/Security Management Online.pdf)
-- CRIM 3490: Intelligence and National Security [(Syllabus)](/assets/Intelligence and National Security.pdf)
-- CRIM 3490 (Online): Intelligence and National Security [(Syllabus)](/assets/Intelligence and National Security Online.pdf)
-- CRIM 3800: Civil Wars [(Syllabus)](/assets/Civil Wars.pdf)
-- CRIM 5780: Intelligence Analysis Policy and Practice [(Syllabus)](/assets/Intelligence Analysis.pdf)
-- CRIM 5750: Contemporary Security Studies [(Syllabus)](/assets/Contemporary Security Studies.pdf)
-- CRIM 5750 (Online): Contemporary Security Studies [(Syllabus)](/assets/Contemporary Security Studies Online.pdf)
-- CRIM 6890: Civil Wars [(Syllabus)](/assets/Civil Wars Grad.pdf)
+### Undergraduate
+
+- Intro to Homeland Security [(Syllabus)](/assets/Intro to Homeland Security.pdf)
+- Emergency Managmenet [(Syllabus)](/assets/Emergency Management.pdf)
+- Security Management [(Syllabus)](/assets/Security Management.pdf)
+- Security Management (Online, Asynchronous) [(Syllabus)](/assets/Security Management Online.pdf)
+- Intelligence and National Security [(Syllabus)](/assets/Intelligence and National Security.pdf)
+- Intelligence and National Security  (Online, Asynchronous) [(Syllabus)](/assets/Intelligence and National Security Online.pdf)
+- Civil Wars [(Syllabus)](/assets/Civil Wars.pdf)
+
+### Graduate
+
+- Intelligence Analysis Policy and Practice [(Syllabus)](/assets/Intelligence Analysis.pdf)
+- Contemporary Security Studies [(Syllabus)](/assets/Contemporary Security Studies.pdf)
+- Contemporary Security Studies (Online, Asynchronous) [(Syllabus)](/assets/Contemporary Security Studies Online.pdf)
+- Civil Wars [(Syllabus)](/assets/Civil Wars Grad.pdf)
 
 ### Courses Taught at UTEP
 
-- CRIM 3490: Intelligence and National Security
+### Undergraduate
+
+- Intelligence and National Security (mixed undergrad/graduate)
+- Civil Wars and Terrorism
+
+### Graduate
+
+- Stategic Survey of Africa (Taught at US Army Sergeants Major Academy, Ft. Bliss)
+- Strategic Survey of Europe (Taught at US Army Sergeants Major Academy, Ft. Bliss)
+- Strategic Survey of Asia (Taught at US Army Sergeants Major Academy, Ft. Bliss)
 
 ### Courses Taught at UNT
 
-- CRIM 3490: Intelligence and National Security
+- American Government: Process and Policies
+- Revolution and Political Violence
+- Terrorism
