@@ -20,9 +20,8 @@
 
 title: Christopher Linebarger
 email: christopher_linebarger@uml.edu
-description: >-
-  Associate Professor of Security Studies, 
-  University of Massachusetts Lowell
+position: Association Professor of Security Studies
+affiliation: University of Massachusetts Lowell
 theme: minima
 
 # We'll set these later depending on your GitHub Pages setup
@@ -34,7 +33,10 @@ header_pages:
   - research.md
   - teaching.md
  
-
+# Profile links (used by footer)
+github_url: "https://github.com/clinebarger"
+orcid_url: "https://orcid.org/0000-0002-1183-1374"
+scholar_url: "https://scholar.google.com/citations?user=xr6FxkAAAAAJ"
 
 minima:
   social_links:
