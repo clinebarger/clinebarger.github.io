@@ -52,3 +52,8 @@
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+.site-footer .footer-meta {
+  margin: 0;
+  line-height: 1.25;
+}

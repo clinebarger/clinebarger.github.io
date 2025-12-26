@@ -7,7 +7,7 @@
       <!-- Left column: name / position / affiliation -->
       <div class="footer-col">
         <p class="p-name footer-name">
-          © {{ site.time | date: "%Y" }} {{ site.title }}
+          {{ site.title }}
         </p>
 
         {% if site.position %}
@@ -43,7 +43,7 @@
 
         <ul class="footer-social">
           {% if site.scholar_url %}
-          <li>
+          
             <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- Google Scholar (mortarboard) -->
@@ -54,11 +54,11 @@
               </span>
               <span class="footer-link-text">Google Scholar</span>
             </a>
-          </li>
+          
           {% endif %}
 
           {% if site.orcid_url %}
-          <li>
+          
             <a href="{{ site.orcid_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- ORCID -->
@@ -68,11 +68,11 @@
               </span>
               <span class="footer-link-text">ORCID</span>
             </a>
-          </li>
+          
           {% endif %}
 
           {% if site.github_url %}
-          <li>
+          
             <a href="{{ site.github_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- GitHub -->
@@ -82,7 +82,7 @@
               </span>
               <span class="footer-link-text">GitHub</span>
             </a>
-          </li>
+          
           {% endif %}
         </ul>
       </div>
