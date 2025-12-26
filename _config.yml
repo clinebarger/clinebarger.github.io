@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Associate Professor of Security Studies
+title: Christopher Linebarger
 email: christopher_linebarger@uml.edu
 description: >-
-  University of Massachusetts Lowell.
+  Associate Professor of Security Studies
+  University of Massachusetts Lowell
 theme: minima
 
 # We'll set these later depending on your GitHub Pages setup
@@ -29,9 +30,10 @@ url: "https://clinebarger.github.io"
 baseurl: ""
 
 header_pages:
+  - cv.md
   - research.md
   - teaching.md
-  - cv.md
+ 
 
 
 minima:
