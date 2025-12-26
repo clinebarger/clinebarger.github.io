@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching
+title: 
 permalink: /teaching/
 ---
 
 
-## Courses at UMass Lowell
+# Courses at UMass Lowell
 
 ### Undergraduate
 
@@ -24,7 +24,7 @@ permalink: /teaching/
 - Contemporary Security Studies (Online, Asynchronous) [(Syllabus)](/assets/Contemporary Security Studies Online.pdf)
 - Civil Wars [(Syllabus)](/assets/Civil Wars Grad.pdf)
 
-### Courses Taught at UTEP
+# Courses Taught at UTEP
 
 ### Undergraduate
 
@@ -37,7 +37,7 @@ permalink: /teaching/
 - Strategic Survey of Europe (Taught at US Army Sergeants Major Academy, Ft. Bliss)
 - Strategic Survey of Asia (Taught at US Army Sergeants Major Academy, Ft. Bliss)
 
-### Courses Taught at UNT
+# Courses Taught at UNT
 
 - American Government: Process and Policies
 - Revolution and Political Violence
