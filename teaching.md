@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Teaching
 permalink: /teaching/
 ---
 
@@ -17,7 +17,7 @@ permalink: /teaching/
 - Intelligence Analysis Policy and Practice (graduate) [(Syllabus)](/assets/Intelligence Analysis.pdf)
 - Contemporary Security Studies (graduate) [(Syllabus)](/assets/Contemporary Security Studies.pdf)
 - Contemporary Security Studies (graduate, online, asynchronous) [(Syllabus)](/assets/Contemporary Security Studies Online.pdf)
-- Civil Wars (graduate, online, asynchronous) [(Syllabus)](/assets/Civil Wars Grad.pdf)
+- Civil Wars [(Syllabus)](/assets/Civil Wars Grad.pdf)
 
 ## Courses Taught at UTEP
 
