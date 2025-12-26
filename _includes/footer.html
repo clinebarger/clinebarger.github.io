@@ -4,22 +4,38 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
 
+      <!-- Left column: identity -->
       <div class="footer-col">
-        <p>
-          © {{ site.time | date: "%Y" }} Christopher Linebarger
+        <p class="p-name">
+          © {{ site.time | date: "%Y" }} {{ site.title }}
         </p>
-        <p>
-          University of Massachusetts Lowell
+
+        {% if site.description %}
+        <p class="p-affiliation">
+          {{ site.description }}
         </p>
+        {% endif %}
       </div>
 
+      <!-- Right column: contact & links -->
       <div class="footer-col">
+        {% if site.email %}
         <p>
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <a class="u-email" href="mailto:{{ site.email }}">
+            {{ site.email }}
+          </a>
         </p>
+        {% endif %}
+
+        {% if site.minima.social_links %}
         <p>
-          <a href="https://github.com/clinebarger">GitHub</a>
+          {% for link in site.minima.social_links %}
+            <a href="{{ link.user_url }}" target="_blank" rel="noopener">
+              {{ link.platform | capitalize }}
+            </a>{% unless forloop.last %} · {% endunless %}
+          {% endfor %}
         </p>
+        {% endif %}
       </div>
 
     </div>
