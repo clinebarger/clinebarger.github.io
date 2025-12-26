@@ -33,6 +33,13 @@ header_pages:
   - research.md
   - teaching.md
  
+# Address (footer)
+address_lines:
+  - "School of Criminology and Justice Studies"
+  - "Lowell, MA 01854"
+  - "United States"
+
+
 # Profile links (used by footer)
 github_url: "https://github.com/clinebarger"
 orcid_url: "https://orcid.org/0000-0002-1183-1374"
