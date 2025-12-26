@@ -4,10 +4,8 @@ title: Research
 permalink: /research/
 ---
 
-## Projects
 
-### Project name
-Short description.
+### Publications
 
 - Paper:
 - Data:
