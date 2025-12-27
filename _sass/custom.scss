@@ -60,3 +60,19 @@
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+/* Live-site safety overrides (win against theme defaults) */
+.site-footer .footer-3col {
+  display: grid !important;
+}
+
+.site-footer ul.footer-social,
+.site-footer ul.footer-social li {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.site-footer ul.footer-social {
+  padding-left: 0 !important;
+}
