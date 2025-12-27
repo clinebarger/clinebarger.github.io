@@ -7,8 +7,11 @@
       <!-- Left column: name / position / affiliation -->
       <div class="footer-col">
         <p class="p-name footer-name">
-          {{ site.title }}
         </p>
+
+        {% if site.position %}
+          <p class="footer-meta">{{ site.title }}</p>
+        {% endif %}
 
         {% if site.position %}
           <p class="footer-meta">{{ site.position }}</p>
@@ -28,7 +31,6 @@
       <!-- Middle column: address -->
       <div class="footer-col">
         {% if site.address_lines %}
-          <p class="footer-heading">Address</p>
           <address class="footer-address">
             {% for line in site.address_lines %}
               {{ line }}{% unless forloop.last %}<br>{% endunless %}
@@ -39,11 +41,10 @@
 
       <!-- Right column: social (vertical list: icon + label) -->
       <div class="footer-col">
-        <p class="footer-heading">Links</p>
 
         <ul class="footer-social">
           {% if site.scholar_url %}
-          
+          <li>
             <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- Google Scholar (mortarboard) -->
@@ -54,11 +55,11 @@
               </span>
               <span class="footer-link-text">Google Scholar</span>
             </a>
-          
+          </li>
           {% endif %}
 
           {% if site.orcid_url %}
-          
+          <li>
             <a href="{{ site.orcid_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- ORCID -->
@@ -68,11 +69,11 @@
               </span>
               <span class="footer-link-text">ORCID</span>
             </a>
-          
+          </li>
           {% endif %}
 
           {% if site.github_url %}
-          
+          <li>
             <a href="{{ site.github_url }}" target="_blank" rel="noopener">
               <span class="footer-icon" aria-hidden="true">
                 <!-- GitHub -->
@@ -82,7 +83,7 @@
               </span>
               <span class="footer-link-text">GitHub</span>
             </a>
-          
+          </li>
           {% endif %}
         </ul>
       </div>
