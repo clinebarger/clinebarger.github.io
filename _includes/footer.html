@@ -28,16 +28,7 @@
         {% endif %}
       </div>
 
-      <!-- Middle column: address -->
-      <div class="footer-col">
-        {% if site.address_lines %}
-          <address class="footer-address">
-            {% for line in site.address_lines %}
-              {{ line }}{% unless forloop.last %}<br>{% endunless %}
-            {% endfor %}
-          </address>
-        {% endif %}
-      </div>
+
 
       <!-- Right column: social (vertical list: icon + label) -->
       <div class="footer-col">
