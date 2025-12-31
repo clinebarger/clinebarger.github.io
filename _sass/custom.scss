@@ -1,10 +1,11 @@
-/* Footer: align with site text width (no extra-wide footer wrapper) */
-/* (Intentionally no .site-footer .wrapper max-width override) */
+/* ============================================================
+   Footer layout: two columns aligned with page text
+   ============================================================ */
 
-/* Footer: two-column grid aligned with page text */
+/* Main footer layout */
 .site-footer .footer-3col {
   display: grid;
-  grid-template-columns: 9fr 5fr;; /* identity | social (balanced) */
+  grid-template-columns: 9fr 5fr; /* identity | social */
   gap: 1.5rem;
   align-items: start;
 }
@@ -28,7 +29,7 @@
   line-height: 1.25;
 }
 
-/* Social list: vertical, icon + label, no bullets/indent */
+/* Social list: icon + label, no bullets */
 .site-footer ul.footer-social,
 .site-footer ul.footer-social li {
   list-style: none;
@@ -57,26 +58,12 @@
   text-underline-offset: 2px;
 }
 
+/* ============================================================
+   GitHub Pages safety override (minimal + final)
+   ============================================================ */
 
-
-/* --- GitHub Pages safety override: ensure footer layout + no bullets always win --- */
 .site-footer .footer-3col {
   display: grid !important;
   grid-template-columns: 9fr 5fr !important;
   gap: 1.5rem !important;
-  align-items: start !important;
-}
-
-@media (max-width: 800px) {
-  .site-footer .footer-3col {
-    grid-template-columns: 1fr !important;
-    gap: 1rem !important;
-  }
-}
-
-.site-footer ul.footer-social,
-.site-footer ul.footer-social li {
-  list-style: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
 }
