@@ -56,3 +56,28 @@
   text-decoration: underline;
   text-underline-offset: 2px;
 }
+
+
+
+
+/* --- GitHub Pages safety override: ensure footer layout + no bullets always win --- */
+.site-footer .footer-3col {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 1.5rem !important;
+  align-items: start !important;
+}
+
+@media (max-width: 800px) {
+  .site-footer .footer-3col {
+    grid-template-columns: 1fr !important;
+    gap: 1rem !important;
+  }
+}
+
+.site-footer ul.footer-social,
+.site-footer ul.footer-social li {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
