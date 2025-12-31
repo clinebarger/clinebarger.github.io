@@ -62,7 +62,7 @@
 /* --- GitHub Pages safety override: ensure footer layout + no bullets always win --- */
 .site-footer .footer-3col {
   display: grid !important;
-  grid-template-columns: 1fr 1fr !important;
+  grid-template-columns: 9fr 5fr !important;
   gap: 1.5rem !important;
   align-items: start !important;
 }
