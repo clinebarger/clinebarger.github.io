@@ -1,21 +1,19 @@
-/* Footer: widen wrapper slightly so columns breathe */
-.site-footer .wrapper {
-  max-width: 1200px;
-}
+/* Footer: align with site text width (no extra-wide footer wrapper) */
+/* (Intentionally no .site-footer .wrapper max-width override) */
 
-/* Footer: two-column grid (identity | social) */
+/* Footer: two-column grid aligned with page text */
 .site-footer .footer-3col {
   display: grid;
-  grid-template-columns: 1fr auto; /* left grows, right hugs content */
-  gap: 0.5rem;
+  grid-template-columns: 9fr 5fr;; /* identity | social (balanced) */
+  gap: 1.5rem;
   align-items: start;
 }
 
-/* Mobile: stack cleanly */
+/* Mobile: stack columns */
 @media (max-width: 800px) {
   .site-footer .footer-3col {
     grid-template-columns: 1fr;
-    gap: 0.5rem;
+    gap: 1rem;
   }
 }
 
@@ -30,19 +28,17 @@
   line-height: 1.25;
 }
 
-/* Social list: vertical, icon + label */
-.site-footer ul.footer-social {
+/* Social list: vertical, icon + label, no bullets/indent */
+.site-footer ul.footer-social,
+.site-footer ul.footer-social li {
   list-style: none;
-  padding: 0;
   margin: 0;
-
-  display: grid;
-  gap: 0.5rem;
+  padding: 0;
 }
 
-.site-footer ul.footer-social li {
-  margin: 0;
-  padding: 0;
+.site-footer ul.footer-social {
+  display: grid;
+  gap: 0.5rem;
 }
 
 .site-footer ul.footer-social a {
@@ -59,16 +55,4 @@
 .site-footer .footer-link-text {
   text-decoration: underline;
   text-underline-offset: 2px;
-}
-
-
-.site-footer ul.footer-social,
-.site-footer ul.footer-social li {
-  list-style: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-.site-footer ul.footer-social {
-  padding-left: 0 !important;
 }
