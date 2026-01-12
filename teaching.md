@@ -8,6 +8,7 @@ permalink: /teaching/
 ## Courses at UMass Lowell
 
 - Intro to Homeland Security (undergrad) [(Syllabus)](/assets/Intro to Homeland Security.pdf)
+- Terrorism (undergrad) [(Syllabus)](/assets/Terrorism.pdf)
 - Emergency Managmenet (undergrad) [(Syllabus)](/assets/Emergency Management.pdf)
 - Security Management (undergrad) [(Syllabus)](/assets/Security Management.pdf)
 - Security Management (undergrad, online, asynchronous) [(Syllabus)](/assets/Security Management Online.pdf)
@@ -17,9 +18,9 @@ permalink: /teaching/
 - Intelligence Analysis Policy and Practice (graduate) [(Syllabus)](/assets/Intelligence Analysis.pdf)
 - Contemporary Security Studies (graduate) [(Syllabus)](/assets/Contemporary Security Studies.pdf)
 - Contemporary Security Studies (graduate, online, asynchronous) [(Syllabus)](/assets/Contemporary Security Studies Online.pdf)
-- Civil Wars [(Syllabus)](/assets/Civil Wars Grad.pdf)
+- Civil Wars (graduate) [(Syllabus)](/assets/Civil Wars Grad.pdf)
 
-## Courses Taught at UTEP
+## Courses at UTEP
 
 - Intelligence and National Security (mixed undergrad/graduate)
 - Civil Wars and Terrorism (undergrad)
@@ -27,7 +28,7 @@ permalink: /teaching/
 - Strategic Survey of Europe (graduate, taught at US Army Sergeants Major Academy, Ft. Bliss)
 - Strategic Survey of Asia (graduate, taught at US Army Sergeants Major Academy, Ft. Bliss)
 
-## Courses Taught at UNT
+## Courses at UNT
 
 - American Government: Process and Policies (undergrad)
 - Revolution and Political Violence (undergrad)
