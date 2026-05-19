@@ -7,7 +7,7 @@ permalink: /research/
 
 ## Book Publication
 
- <b>Linebarger, Christopher</b>, Amira Jadoon, Suzanne Weedon Levy, and Victor Asal.Killing Americans: Insurgent Motivations, Risk Factors, and Implications. Oxford University Press.  ISBN: 9780197693780.  Published online: December 1, 2025.  In-print: February 4, 2026.
+ <b>Linebarger, Christopher</b>, Amira Jadoon, Suzanne Weedon Levy, and Victor Asal. "Killing Americans: Insurgent Motivations, Risk Factors, and Implications. Oxford University Press."  ISBN: 9780197693780.  Published online: December 1, 2025.  In-print: February 4, 2026.
 
 - [Link](https://academic.oup.com/book/61737)
 - Replication Files: [Zip Archive](/assets/attacksonamericans.zip)
@@ -15,14 +15,12 @@ permalink: /research/
 ## Journal Articles
 
 <b>Linebarger, Christopher</b> and Juan Merizalde. 2026. "High Threat Environments and Alliances Among Militant Groups of Dissimilar Ideologies." Studies in Conflict and Terrorism. DOI: 10.1080/1057610X.2026.2648503.
-
 - [Link](https://www.tandfonline.com/doi/abs/10.1080/1057610X.2026.2648503)
 - Replication Files: [Zip Archive](/assets/highthreatenvironments.zip)
 
 <b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections.
-
 - [Link](https://academic.oup.com/edited-volume/61655/chapter/545580437)
-- Replication Files: 
+- Replication Files: [Zip Archive](/assets/domesticcorrelates.zip)
 
  Merizalde, Juan and <b>Christopher Linebarger</b>. 2024.  "Correlates of Radical Localism Across American Counties"  Dynamics of Asymmetric Conflict 17(2): 140-163.
 
@@ -32,7 +30,7 @@ permalink: /research/
 
  Asal, Victor, <b>Christopher Linebarger</b>, Amira Jadoon, and J. Michael Greig. 2023. "Why Some Rebel Organizations Attack Americans." Defence and Peace Economics 32(6): 708--725.  DOI: 10.1080/10242694.2021.1878320
 
- <b>Linebarger, Christopher</b> and Alex Braithwaite. 2021. "Why Do Leaders Build Walls? Domestic Politics, Leader Survival, and the Fortification of Borders."  Journal of Conflict Resolution 66(4--5): 704-728.  DOI: 10.1177/00220027211066615
+ <b>Linebarger, Christopher</b> and Alex Braithwaite. 2022. "Why Do Leaders Build Walls? Domestic Politics, Leader Survival, and the Fortification of Borders."  Journal of Conflict Resolution 66(4--5): 704-728.  DOI: 10.1177/00220027211066615
 
  Jones, Benjamin and <b>Christopher Linebarger</b>. 2021. "Playing the Ethnic Card: Diversion, Transborder Ethnic Ties, and Sponsorship of Rebel Movements." Journal of Global Security Studies 6(4). DOI: 10.1093/jogss/ogaa056
 
