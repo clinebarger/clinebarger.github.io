@@ -18,7 +18,7 @@ permalink: /research/
 - [Link](https://www.tandfonline.com/doi/abs/10.1080/1057610X.2026.2648503)
 - Replication Files: [Zip Archive](/assets/highthreatenvironments.zip)
 
-<b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections.
+<b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections. DOI: 10.1093/9780198945222.003.0171
 - [Link](https://academic.oup.com/edited-volume/61655/chapter/545580437)
 - Replication Files: [Zip Archive](/assets/domesticcorrelates.zip)
 
