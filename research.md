@@ -14,11 +14,15 @@ permalink: /research/
 
 ## Journal Articles
 
-  <b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections.
+<b>Linebarger, Christopher</b> and Juan Merizalde. 2026. "High Threat Environments and Alliances Among Militant Groups of Dissimilar Ideologies." Studies in Conflict and Terrorism. DOI: 10.1080/1057610X.2026.2648503.
+
+- [Link](https://www.tandfonline.com/doi/abs/10.1080/1057610X.2026.2648503)
+- Replication Files: [Zip Archive](/assets/highthreatenvironments.zip)
+
+<b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections.
 
 - [Link](https://academic.oup.com/edited-volume/61655/chapter/545580437)
-- Replication Files: Zip Archive 
-
+- Replication Files: 
 
  Merizalde, Juan and <b>Christopher Linebarger</b>. 2024.  "Correlates of Radical Localism Across American Counties"  Dynamics of Asymmetric Conflict 17(2): 140-163.
 
