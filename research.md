@@ -10,7 +10,7 @@ permalink: /research/
  <b>Linebarger, Christopher</b>, Amira Jadoon, Suzanne Weedon Levy, and Victor Asal.Killing Americans: Insurgent Motivations, Risk Factors, and Implications. Oxford University Press.  ISBN: 9780197693780.  Published online: December 1, 2025.  In-print: February 4, 2026.
 
 - [Link](https://academic.oup.com/book/61737)
-- Replication Files: Zip Archive
+- Replication Files: [Zip Archive](/assets/attacksonamericans.zip)
 
 ## Journal Articles
 
