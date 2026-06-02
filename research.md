@@ -15,11 +15,11 @@ permalink: /research/
 ## Journal Articles
 
 <b>Linebarger, Christopher</b> and Juan Merizalde. 2026. "High Threat Environments and Alliances Among Militant Groups of Dissimilar Ideologies." Studies in Conflict and Terrorism. DOI: 10.1080/1057610X.2026.2648503.
-- [Link](https://www.tandfonline.com/doi/abs/10.1080/1057610X.2026.2648503)
+
 - Replication Files: [Zip Archive](/assets/highthreatenvironments.zip)
 
 <b>Linebarger, Christopher</b> and Alex Braithwaite. 2025. "The Domestic Political Correlates of Border Barrier Construction."  Oxford Intersections. DOI: 10.1093/9780198945222.003.0171
-- [Link](https://academic.oup.com/edited-volume/61655/chapter/545580437)
+
 - Replication Files: [Zip Archive](/assets/domesticcorrelates.zip)
 
  Merizalde, Juan and <b>Christopher Linebarger</b>. 2024.  "Correlates of Radical Localism Across American Counties"  Dynamics of Asymmetric Conflict 17(2): 140-163.
@@ -32,7 +32,11 @@ permalink: /research/
 
  <b>Linebarger, Christopher</b> and Alex Braithwaite. 2022. "Why Do Leaders Build Walls? Domestic Politics, Leader Survival, and the Fortification of Borders."  Journal of Conflict Resolution 66(4--5): 704-728.  DOI: 10.1177/00220027211066615
 
+- Replication Files: [Zip Archive](/assets/domesticcorrelates.zip)
+
  Jones, Benjamin and <b>Christopher Linebarger</b>. 2021. "Playing the Ethnic Card: Diversion, Transborder Ethnic Ties, and Sponsorship of Rebel Movements." Journal of Global Security Studies 6(4). DOI: 10.1093/jogss/ogaa056
+
+- Replication Files: [Zip Archive](/assets/playing_the_ethnic_card_-_final_-_12-15-2020.zip)
 
  Asal, Victor, Charmaine N. Willis, <b>Christopher Linebarger</b>, and Nakissa P. Jahanbani. 2021. "Teaching about Oppression and Rebellion: The `Peasants are Revolting' Game" PS: Political Science & Politics. 54(2): 331--335.  DOI: 10.1017/S1049096520001675
 
